@@ -1,11 +1,6 @@
-﻿using System;
-using System.ComponentModel;
-using System.Drawing;
+using System;
 using System.Windows.Forms;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Threading;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
